@@ -1,4 +1,4 @@
-name             'teamcity'
+name             'teamcity_agent'
 maintainer       "Malte Swart"
 maintainer_email "chef@maltswart.de"
 license          "Apache License, Version 2.0"
