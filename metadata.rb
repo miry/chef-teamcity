@@ -8,4 +8,4 @@ version          "0.2.2"
 
 recommends "java"
 
-recipe 'teamcity::agent', 'Installs an agent for a teamcity ci server'
+recipe 'teamcity_agent::agent', 'Installs an agent for a teamcity ci server'
